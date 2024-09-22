@@ -12,6 +12,7 @@
 		ED3FCA822CA0648D00D4E54D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED3FCA812CA0648D00D4E54D /* Assets.xcassets */; };
 		ED3FCA852CA0648D00D4E54D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED3FCA842CA0648D00D4E54D /* Preview Assets.xcassets */; };
 		ED3FCA8E2CA0689000D4E54D /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3FCA8D2CA0689000D4E54D /* SecondView.swift */; };
+		ED3FCA902CA0697200D4E54D /* ThirdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3FCA8F2CA0697200D4E54D /* ThirdView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		ED3FCA812CA0648D00D4E54D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED3FCA842CA0648D00D4E54D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		ED3FCA8D2CA0689000D4E54D /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
+		ED3FCA8F2CA0697200D4E54D /* ThirdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				ED3FCA7D2CA0648A00D4E54D /* GithubDemoApp.swift */,
 				ED3FCA7F2CA0648A00D4E54D /* MainView.swift */,
 				ED3FCA8D2CA0689000D4E54D /* SecondView.swift */,
+				ED3FCA8F2CA0697200D4E54D /* ThirdView.swift */,
 				ED3FCA812CA0648D00D4E54D /* Assets.xcassets */,
 				ED3FCA832CA0648D00D4E54D /* Preview Content */,
 			);
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ED3FCA902CA0697200D4E54D /* ThirdView.swift in Sources */,
 				ED3FCA8E2CA0689000D4E54D /* SecondView.swift in Sources */,
 				ED3FCA802CA0648A00D4E54D /* MainView.swift in Sources */,
 				ED3FCA7E2CA0648A00D4E54D /* GithubDemoApp.swift in Sources */,
